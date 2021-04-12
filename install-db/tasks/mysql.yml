@@ -3,7 +3,7 @@
     name: "{{ packages }}"
   vars:
     packages:
-    - mariadb-server
+    - mariadb-server 
     - mariadb
     - MySQL-python
 

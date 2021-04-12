@@ -5,7 +5,7 @@
   tasks:
   - name: Creating an empty file
     file:
-      path: "/tmp/teste1"
+      path: "/tmp/testeawx"
       state: touch
 
   
